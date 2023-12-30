@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.principal-text{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.navbar-brand{
+  font-weight: bolder;
+}
+
+.navbar-collapse .navbar-nav{
+  margin-left: 120px;
+  gap: 80px;
+}
+
+.navbar-collapse .navbar-nav .nav-item .nav-link{
+  font-weight: bold;
+}
+
+.d-flex {
+  width: 400px;
+  margin-right: 80px;
+}
